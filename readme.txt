@@ -1,1 +1,3 @@
-"say hello"
+"say hello";
+
+"null"
